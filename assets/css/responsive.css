@@ -1,3 +1,4 @@
+
 @media(max-width:1428px) {
 	.nav-links {
 		gap: 19px;
@@ -337,4 +338,26 @@
 	.testimonial-text {
 		text-align: center;
 	}
+    .payment-section .payment-right-section h1 br{
+        display: none;
+    }
+}
+
+@media(max-width:432px){
+	 .actions a:first-child{
+        display: none;
+    }
+    #navbar .logo img{
+        width: -webkit-fill-available;
+    }
+    .payment-section .payment-right-section h1 {
+        font-size: 36px;
+        line-height: 55px;
+    }
+    .payment-section .payment-right-section .buttons button{
+        padding: 12px 18px;
+    }
+    .payment-section .payment-right-section .buttons button {
+        font-size: 16px;
+    }
 }
