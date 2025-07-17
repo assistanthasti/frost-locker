@@ -1,3 +1,4 @@
+
 @font-face {
 	font-family: "Suisse Works Bold";
 	src: url("https://db.onlinewebfonts.com/t/27cb2381f8e348c531e19a16b9921082.eot");
@@ -871,7 +872,6 @@ button:hover {
 	font-weight: 600;
 	font-size: 18px;
 	line-height: 26px;
-	text-align: center;
 	color: #0D0D0D;
 }
 
